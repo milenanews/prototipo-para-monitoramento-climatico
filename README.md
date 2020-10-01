@@ -9,4 +9,8 @@ Proposta de usabilidade para aplicativo de monitoramento climático.
 * Os sinais de cores de alerta proporcionam a rápida percepção do que está acontecendo na região de cada torre de monitoramento climático.
 
 ## Utilizando o projeto
-O mockup procura ser de simples entendimento e rápida percepção da situação em caso de emergências.
+Para visualizar as páginas html do app foi criado um atalho na raiz do projeto de nome prototipo.
+Basta executar o atalho que você será direcionado a primeira tela do protótipo.
+
+### Melhorias mapeadas
+Segregar arquivos em pastas para cada tipo de arquivo (js, css, images)
