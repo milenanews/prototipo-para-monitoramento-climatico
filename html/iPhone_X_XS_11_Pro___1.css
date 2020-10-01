@@ -1,0 +1,559 @@
+.mediaViewInfo {
+	--web-view-name: iPhone X/XS/11 Pro – 1;
+	--web-view-id: iPhone_X_XS_11_Pro___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_X_XS_11_Pro___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_X_XS_11_Pro___1 {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone X/XS/11 Pro – 1;
+	--web-view-id: iPhone_X_XS_11_Pro___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#maplong {
+	position: absolute;
+	width: 408px;
+	height: 812px;
+	left: -16px;
+	top: 0px;
+	overflow: visible;
+}
+#GREEN {
+	position: absolute;
+	width: 81px;
+	height: 76px;
+	left: 222px;
+	top: 302px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_X_XS_11_Pro___3.html;
+	cursor: pointer;
+}
+.Elipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#__23_C {
+	position: absolute;
+	left: 33px;
+	top: 20px;
+	overflow: visible;
+	width: 40px;
+	height: 14px;
+	line-height: 14px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ID29_ {
+	position: absolute;
+	left: 35px;
+	top: 35px;
+	overflow: visible;
+	width: 26px;
+	height: 14px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#solwhite {
+	position: absolute;
+	width: 25.452px;
+	height: 25.452px;
+	left: 12.108px;
+	top: 5.308px;
+	overflow: visible;
+}
+#nuvemwhite {
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 16px;
+	top: 21px;
+	overflow: visible;
+}
+#temperaturawhite {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 17px;
+	top: 38px;
+	overflow: visible;
+}
+#__33_C {
+	position: absolute;
+	left: 31px;
+	top: 11px;
+	overflow: visible;
+	width: 42px;
+	height: 15px;
+	line-height: 14px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ID29__ {
+	position: absolute;
+	left: 35px;
+	top: 52px;
+	overflow: visible;
+	width: 26px;
+	height: 14px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#waterdropwhite {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 17px;
+	top: 53px;
+	overflow: visible;
+}
+#BLUE {
+	position: absolute;
+	width: 81px;
+	height: 76px;
+	left: 107px;
+	top: 146px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_X_XS_11_Pro___2.html;
+	cursor: pointer;
+}
+.Elipse_1_ {
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#__23_C_ {
+	position: absolute;
+	left: 33px;
+	top: 20px;
+	overflow: visible;
+	width: 40px;
+	height: 14px;
+	line-height: 14px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ID29__ba {
+	position: absolute;
+	left: 35px;
+	top: 35px;
+	overflow: visible;
+	width: 26px;
+	height: 14px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#solwhite_bb {
+	position: absolute;
+	width: 25.452px;
+	height: 25.452px;
+	left: 12.108px;
+	top: 5.308px;
+	overflow: visible;
+}
+#nuvemwhite_bc {
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 16px;
+	top: 21px;
+	overflow: visible;
+}
+#temperaturawhite_bd {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 17px;
+	top: 38px;
+	overflow: visible;
+}
+#__33_C_be {
+	position: absolute;
+	left: 31px;
+	top: 11px;
+	overflow: visible;
+	width: 42px;
+	height: 15px;
+	line-height: 14px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ID29__bf {
+	position: absolute;
+	left: 35px;
+	top: 52px;
+	overflow: visible;
+	width: 26px;
+	height: 14px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#waterdropwhite_bg {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 17px;
+	top: 53px;
+	overflow: visible;
+}
+#RED {
+	position: absolute;
+	width: 81px;
+	height: 76px;
+	left: 231px;
+	top: 569px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_X_XS_11_Pro___5.html;
+	cursor: pointer;
+}
+.Elipse_1_bi {
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#__23_C_bj {
+	position: absolute;
+	left: 33px;
+	top: 20px;
+	overflow: visible;
+	width: 40px;
+	height: 14px;
+	line-height: 14px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ID29__bk {
+	position: absolute;
+	left: 35px;
+	top: 35px;
+	overflow: visible;
+	width: 26px;
+	height: 14px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#solwhite_bl {
+	position: absolute;
+	width: 25.452px;
+	height: 25.452px;
+	left: 12.108px;
+	top: 5.308px;
+	overflow: visible;
+}
+#nuvemwhite_bm {
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 16px;
+	top: 21px;
+	overflow: visible;
+}
+#temperaturawhite_bn {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 18px;
+	top: 38px;
+	overflow: visible;
+}
+#__33_C_bo {
+	position: absolute;
+	left: 31px;
+	top: 11px;
+	overflow: visible;
+	width: 42px;
+	height: 15px;
+	line-height: 14px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ID16_ {
+	position: absolute;
+	left: 35px;
+	top: 52px;
+	overflow: visible;
+	width: 26px;
+	height: 14px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#waterdropwhite_bq {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 17px;
+	top: 53px;
+	overflow: visible;
+}
+#YELLOW {
+	position: absolute;
+	width: 81px;
+	height: 76px;
+	left: 52px;
+	top: 368px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_X_XS_11_Pro___4.html;
+	cursor: pointer;
+}
+.Elipse_1_bs {
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#__23_C_bt {
+	position: absolute;
+	left: 33px;
+	top: 20px;
+	overflow: visible;
+	width: 40px;
+	height: 14px;
+	line-height: 14px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ID29__bu {
+	position: absolute;
+	left: 35px;
+	top: 35px;
+	overflow: visible;
+	width: 26px;
+	height: 14px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#solwhite_bv {
+	position: absolute;
+	width: 25.452px;
+	height: 25.452px;
+	left: 12.108px;
+	top: 5.308px;
+	overflow: visible;
+}
+#nuvemwhite_bw {
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 16px;
+	top: 21px;
+	overflow: visible;
+}
+#temperaturawhite_bx {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 17px;
+	top: 38px;
+	overflow: visible;
+}
+#__33_C_by {
+	position: absolute;
+	left: 31px;
+	top: 11px;
+	overflow: visible;
+	width: 42px;
+	height: 15px;
+	line-height: 14px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ID29__bz {
+	position: absolute;
+	left: 35px;
+	top: 52px;
+	overflow: visible;
+	width: 26px;
+	height: 14px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#waterdropwhite_b {
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 17px;
+	top: 53px;
+	overflow: visible;
+}
+.Ret_ngulo_5 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 64px;
+	left: 0px;
+	top: 1px;
+}
+#casawhite {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 22px;
+	top: 18px;
+	overflow: visible;
+}
+.Ret_ngulo_6 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 64px;
+	left: 0px;
+	top: 748px;
+}
+.Pol_gono_1 {
+	overflow: hidden;
+	position: absolute;
+	width: 32px;
+	height: 28px;
+	transform: matrix(1,0,0,1,63,766) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Caminho_1 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 172px;
+	top: 764px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ret_ngulo_7 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 283px;
+	top: 764px;
+}
+#greenstation2 {
+	position: absolute;
+	width: 30px;
+	height: 29px;
+	left: 195px;
+	top: 349px;
+	overflow: visible;
+}
+#greenstation2_b {
+	position: absolute;
+	width: 30px;
+	height: 29px;
+	left: 83px;
+	top: 193px;
+	overflow: visible;
+}

@@ -1,0 +1,141 @@
+.mediaViewInfo {
+	--web-view-name: iPhone X/XS/11 Pro – 7;
+	--web-view-id: iPhone_X_XS_11_Pro___7;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_X_XS_11_Pro___7;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_X_XS_11_Pro___7 {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone X/XS/11 Pro – 7;
+	--web-view-id: iPhone_X_XS_11_Pro___7;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Grupo_16 {
+	position: absolute;
+	width: 324px;
+	height: 57px;
+	left: 20px;
+	top: 82px;
+	overflow: visible;
+}
+#temperatura {
+	position: absolute;
+	width: 57px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#umidade_do_ar {
+	position: absolute;
+	left: 71px;
+	top: 8px;
+	overflow: visible;
+	width: 254px;
+	height: 49px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+}
+.Ret_ngulo_23 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 64px;
+	left: -1px;
+	top: -2px;
+}
+#casawhite {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 21px;
+	top: 15px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_X_XS_11_Pro___1.html;
+	cursor: pointer;
+}
+.Ret_ngulo_27 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 64px;
+	left: 0px;
+	top: 750px;
+}
+.Pol_gono_8 {
+	overflow: hidden;
+	position: absolute;
+	width: 32px;
+	height: 28px;
+	transform: matrix(1,0,0,1,66,768) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_X_XS_11_Pro___2.html;
+	cursor: pointer;
+}
+.Caminho_8 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 175px;
+	top: 766px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ret_ngulo_28 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 286px;
+	top: 766px;
+}
+#Imagem_4 {
+	position: absolute;
+	width: 375px;
+	height: 257px;
+	left: -2px;
+	top: 454px;
+	overflow: visible;
+}
+#linegraphic {
+	position: absolute;
+	width: 378px;
+	height: 244px;
+	left: -2px;
+	top: 177px;
+	overflow: visible;
+}

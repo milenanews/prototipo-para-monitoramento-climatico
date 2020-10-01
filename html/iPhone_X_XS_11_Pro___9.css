@@ -1,0 +1,149 @@
+.mediaViewInfo {
+	--web-view-name: iPhone X/XS/11 Pro – 9;
+	--web-view-id: iPhone_X_XS_11_Pro___9;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_X_XS_11_Pro___9;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_X_XS_11_Pro___9 {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone X/XS/11 Pro – 9;
+	--web-view-id: iPhone_X_XS_11_Pro___9;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Grupo_13 {
+	position: absolute;
+	width: 318px;
+	height: 90px;
+	left: 18px;
+	top: 65px;
+	overflow: visible;
+}
+#temperatura {
+	position: absolute;
+	left: 90px;
+	top: 27px;
+	overflow: visible;
+	width: 229px;
+	height: 63px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+}
+#sol {
+	position: absolute;
+	width: 69px;
+	height: 69px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#nuvem {
+	position: absolute;
+	width: 58px;
+	height: 58px;
+	left: 16px;
+	top: 32px;
+	overflow: visible;
+}
+.Ret_ngulo_20 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 64px;
+	left: -1px;
+	top: 0px;
+}
+#casawhite {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 21px;
+	top: 17px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_X_XS_11_Pro___1.html;
+	cursor: pointer;
+}
+.Ret_ngulo_21 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 64px;
+	left: 2px;
+	top: 748px;
+}
+.Pol_gono_6 {
+	overflow: hidden;
+	position: absolute;
+	width: 32px;
+	height: 28px;
+	transform: matrix(1,0,0,1,65,766) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_X_XS_11_Pro___3.html;
+	cursor: pointer;
+}
+.Caminho_6 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 174px;
+	top: 764px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ret_ngulo_22 {
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 32px;
+	left: 285px;
+	top: 764px;
+}
+#Imagem_4 {
+	position: absolute;
+	width: 375px;
+	height: 257px;
+	left: 2px;
+	top: 463px;
+	overflow: visible;
+}
+#linegraphic {
+	position: absolute;
+	width: 378px;
+	height: 244px;
+	left: -3px;
+	top: 186px;
+	overflow: visible;
+}
